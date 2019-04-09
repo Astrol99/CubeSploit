@@ -1,1 +1,1 @@
-"# CubeSploit"
+# CubeSploit
